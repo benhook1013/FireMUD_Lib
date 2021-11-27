@@ -1,2 +1,2 @@
 # FireEngine_Lib
-FireEngine shared code.
+Shared Java code for FireEngine microservice based MUD game. 
